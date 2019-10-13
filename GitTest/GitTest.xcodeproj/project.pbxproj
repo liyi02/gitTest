@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E439506235386C300628E40 /* NewFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E439505235386C300628E40 /* NewFile.m */; };
 		6E4D543C2352F4F000F03136 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E4D543B2352F4F000F03136 /* AppDelegate.m */; };
 		6E4D543F2352F4F000F03136 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E4D543E2352F4F000F03136 /* ViewController.m */; };
 		6E4D54422352F4F000F03136 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E4D54402352F4F000F03136 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E439504235386C300628E40 /* NewFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewFile.h; sourceTree = "<group>"; };
+		6E439505235386C300628E40 /* NewFile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewFile.m; sourceTree = "<group>"; };
 		6E4D54372352F4F000F03136 /* GitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E4D543A2352F4F000F03136 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6E4D543B2352F4F000F03136 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				6E4D54452352F4F100F03136 /* LaunchScreen.storyboard */,
 				6E4D54482352F4F100F03136 /* Info.plist */,
 				6E4D54492352F4F100F03136 /* main.m */,
+				6E439504235386C300628E40 /* NewFile.h */,
+				6E439505235386C300628E40 /* NewFile.m */,
 			);
 			path = GitTest;
 			sourceTree = "<group>";
@@ -264,6 +269,7 @@
 			files = (
 				6E4D543F2352F4F000F03136 /* ViewController.m in Sources */,
 				6E4D544A2352F4F100F03136 /* main.m in Sources */,
+				6E439506235386C300628E40 /* NewFile.m in Sources */,
 				6E4D543C2352F4F000F03136 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
