@@ -42,8 +42,7 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 - (void)haha {
-    // branch2 第14次提交 // branch2 第15次提交
-    // branch2 第16次提交
+    // branch2 第14次提交 // branch2 第15次提交 
 }
 
 
