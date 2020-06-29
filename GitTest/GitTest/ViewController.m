@@ -47,5 +47,10 @@
     // branch4 测试冲突第一次
 }
 
+- (void)branch6Revert {
+    
+}
+
+
 
 @end
